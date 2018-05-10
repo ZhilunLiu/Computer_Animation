@@ -1,0 +1,7 @@
+add_subdirectory("${EX_ROOT}/empty-scene")
+add_subdirectory("${EX_ROOT}/modelling-scene")
+add_subdirectory("${EX_ROOT}/object-loader")
+add_subdirectory("${EX_ROOT}/simple-animation")
+add_subdirectory("${EX_ROOT}/linear-spring-mass-system")
+add_subdirectory("${EX_ROOT}/angular-spring-mass-system")
+add_subdirectory("${EX_ROOT}/spring-mesh")

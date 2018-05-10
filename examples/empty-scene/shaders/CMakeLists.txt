@@ -1,0 +1,4 @@
+set(SHADER_LIST
+    PARENT_SCOPE)
+
+set_source_files_properties(${SHADER_LIST} PROPERTIES HEADER_FILE_ONLY TRUE)

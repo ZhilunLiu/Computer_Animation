@@ -1,0 +1,9 @@
+#ifndef OBJECT_LOADER_INCLUDE_PATHS_HPP
+#define OBJECT_LOADER_INCLUDE_PATHS_HPP
+
+#pragma once
+
+constexpr const char ShaderDirectory[] = "@EXAMPLE_SHADER_ROOT@/";
+constexpr const char DataDirectory[] = "@EX_DATA_ROOT@/";
+
+#endif
